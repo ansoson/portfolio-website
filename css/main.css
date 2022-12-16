@@ -71,7 +71,7 @@ header {
   display: flex;
   justify-content: center;
   animation: fadeInAnimationArrow ease 3s;
-  animation-delay: 10s;
+  animation-delay: 8s;
   opacity: 0;
   animation-fill-mode: forwards;
 }
