@@ -469,8 +469,8 @@ video {
 }
 
 .innerDivisionTitle {
-  width: 500px;
   padding: 2em 2em 1em;
+  font-size: 2em;
 }
 
 .illustrationSec {
@@ -497,7 +497,8 @@ a {
 }
 
 .inlineLink {
-  color: #86bdd2
+  color: #86bdd2;
+  font-size: 16px;
 }
 
 .illustrationImageTitle {
